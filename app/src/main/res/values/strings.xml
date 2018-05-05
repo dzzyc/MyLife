@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">MyLife</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    //登陆
+    <string name="my_life">My Life</string>
+    <string name="main_id">ID</string>
+    <string name="main_pw">PW</string>
+    <string name="main_name">Name</string>
+
+    <string name="button_log">Login</string>
+    <string name="button_sign">Sign</string>
+
+    //header
+    <string name="nav_header_ID">Dz_zyc</string>
+    <string name="nav_header_word">For our life!</string>
+    <string name="title_activity_login">LoginActivity</string>
+</resources>
